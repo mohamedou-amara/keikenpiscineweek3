@@ -1,0 +1,26 @@
+version: '3.9'
+
+services:
+  db:
+    container_name: week2day4exercice-db-1
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: piscineweek2chatgpt
+      MYSQL_DATABASE: piscineweek2chatgpt
+    ports:
+      - "3306:3306"
+    volumes:
+      - db-data:/var/lib/mysql
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://week2day4exercice-db-1:3306/piscineweek2chatgpt
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: piscineweek2chatgpt
+volumes:
+  db-data:

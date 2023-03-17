@@ -1,0 +1,8 @@
+/home/amara/myapp-back/keikenpiscineweek3/src/main/java/com/piscine/week2day4exercice/configurationswagger/SwaggerConf.java
+/home/amara/myapp-back/keikenpiscineweek3/src/main/java/com/piscine/week2day4exercice/entity/Conversation.java
+/home/amara/myapp-back/keikenpiscineweek3/src/main/java/com/piscine/week2day4exercice/service/ConversationService.java
+/home/amara/myapp-back/keikenpiscineweek3/src/main/java/com/piscine/week2day4exercice/Week2day4exerciceApplication.java
+/home/amara/myapp-back/keikenpiscineweek3/src/main/java/com/piscine/week2day4exercice/service/Gpt3ApiService.java
+/home/amara/myapp-back/keikenpiscineweek3/src/main/java/com/piscine/week2day4exercice/repository/ConversationRepository.java
+/home/amara/myapp-back/keikenpiscineweek3/src/main/java/com/piscine/week2day4exercice/controller/ConversationController.java
+/home/amara/myapp-back/keikenpiscineweek3/src/main/java/com/piscine/week2day4exercice/configurationswagger/AppConfig.java

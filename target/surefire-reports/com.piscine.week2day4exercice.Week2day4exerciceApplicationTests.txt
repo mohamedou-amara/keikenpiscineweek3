@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.piscine.week2day4exercice.Week2day4exerciceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.094 s - in com.piscine.week2day4exercice.Week2day4exerciceApplicationTests

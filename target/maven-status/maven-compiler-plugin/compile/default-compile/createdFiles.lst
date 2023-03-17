@@ -1,0 +1,7 @@
+com/piscine/week2day4exercice/service/Gpt3ApiService.class
+com/piscine/week2day4exercice/controller/ConversationController.class
+com/piscine/week2day4exercice/Week2day4exerciceApplication.class
+com/piscine/week2day4exercice/entity/Conversation.class
+com/piscine/week2day4exercice/configurationswagger/AppConfig.class
+com/piscine/week2day4exercice/repository/ConversationRepository.class
+com/piscine/week2day4exercice/service/ConversationService.class
