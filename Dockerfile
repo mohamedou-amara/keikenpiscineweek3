@@ -56,4 +56,6 @@ WORKDIR /app
 
 COPY target/week2day4exercice.jar week2day4exercice.jar
 
+EXPOSE 9002
+
 ENTRYPOINT ["java", "-jar", "week2day4exercice.jar"]
